@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **emo64/emo64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![emo64's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=emo46)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there！ 👋
+
+![](https://komarev.com/ghpvc/?username=emo64&style=flat-square)
+
+- 👨🏽‍💻 Currently an Android developer intern at @NeodawnTechCo
+- 🤔 Focus on frontend development
+- 📫 Studying to become a Full Stack Developer
+- 💬 Ask me about full-stack, web, homelab, IoT or literally anything!
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=emo46&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
