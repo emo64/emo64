@@ -17,10 +17,4 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=emo64&style=flat-square)
 
-- 👨🏽‍💻 I am currently working as a senior Android engineer at @NeodawnTechCo
-- 🌱 Studying to become an open-source hardware developer.
-- 😄 I am a native Chinese speaker, but I can communicate effectively in English as well.
-- 💬 Feel free to ask me about full-stack development, web development, homelab setup, IoT, or any other topic!
-- 📫 You can reach me through Telegram @BG5VKJ (I am also a Radio Ham!).
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=emo46&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
